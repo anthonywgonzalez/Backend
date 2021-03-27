@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "\"fullstack open node\"",
+  "main": "js/main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js",
+    "test": "\"echo\\\"Error: no test specified\\\" && exit 1\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
